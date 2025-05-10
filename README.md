@@ -1,67 +1,76 @@
-# Solution Wizard
+# 🌱 Greenvest – ESG Investment Made Simple
 
-## **Team ID:** SW031
+## 🧩 Problem Statement
 
-**IIITD’s Fintech Hackathon**
+**How can fintech innovation promote sustainable and responsible financial practices, such as Environmental, Social, and Governance (ESG) investing?**
 
-### **Team Members**
-- **Muskan Gupta** - Researcher
-- **Khushi Panwar** - Frontend Developer
-- **Nandini Kataria** - Backend Developer
-- **Shreya Agarwal** - Researcher
-
-## **Problem Statement**
-
-How can fintech innovation promote sustainable and responsible financial practices, such as Environmental, Social, and Governance (ESG) investing?
-
-> **Challenges:** Greenwashing and limited awareness about eco-friendly investment options prevent investors from making informed decisions. Without a shift towards sustainable finance, the financial industry will continue to be a major contributor to global environmental challenges.
-
-## **Solution Overview**
-Solution Wizard is a fintech platform that educates and assists investors in ESG investing by providing insights, simulations, and real-time tracking of sustainable investments.
-
-### **Key Features**
-1. **ESG Awareness & Education** – Educates users on ESG funds, their impact, sustainability benefits, and ethical investing.
-2. **Fund Categories & Screening** – Explains Environmental, Social, Governance, and Mixed ESG funds.
-3. **Investment Calculator & Impact Estimation** – Suggests a 2% ESG investment, calculates financial returns, and estimates environmental impact.
-4. **Transaction Simulation & Portfolio Management** – Users can select funds, simulate transactions, and track performance before real investments.
-
-## **Technology Stack**
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MySQL
-- **API Integrations:** Real-time data fetching for ESG fund tracking
-
-## **Innovation & Uniqueness**
-- **Designed for Small Investors:** Encourages ESG investing with just 2% of income.
-- **India-Focused ESG Funds:** Localized recommendations based on Indian market trends.
-- **Risk-Free Learning:** Users can simulate investments before committing real money.
-
-## **Target Audience & Market Opportunity**
-### 🎯 **Target Audience**
-- Young & First-Time Investors (18-35 years old)
-- Sustainability-Focused Investors
-- Salaried & Middle-Class Investors
-- Retail Mutual Fund Investors
-- Corporate Employees & Professionals
-
-### 📈 **Market Opportunity**
-- Indian ESG AUM crossed ₹15,000+ Cr and is growing rapidly.
-- SEBI’s ESG reporting norms encourage responsible investing.
-- 70%+ of young investors prefer sustainable investment options.
-- Digital fintech growth makes ESG mutual funds more accessible.
-
-## **Business Model**
-💰 **Revenue Streams**
-1. **Commission on Investments** – Earns a small fee per transaction.
-2. **Freemium Subscription Model** – AI-powered ESG fund recommendations, impact tracking, and portfolio insights.
-3. **Referral & Rewards Program** – Users earn points for learning & investing.
-
-## **Prototype/Demo**
-🎥 [Watch the Prototype Video](https://drive.google.com/file/d/1UaxHNHrU3VI73BBxlXTujwOeh4fQBedm/view?usp=drive_link)
-
-🚀 **[GitHub Repository](https://github.com/katariaNandini/Solution-Wizard)**
+> **Challenges:**  
+Greenwashing and limited awareness of eco-friendly investment options hinder investors from making informed decisions. Without a shift towards sustainable finance, the financial sector will continue to be a significant contributor to global environmental issues.
 
 ---
-Thank you for exploring our project! 🌍💡
 
+## 💡 Solution Overview
 
+**Greenvest** is a fintech platform that educates and assists users in ESG investing by offering intuitive simulations, insightful recommendations, and real-time tracking of sustainable investments.
+
+---
+
+## ✨ Key Features
+
+1. **ESG Awareness & Education**  
+   Understand the fundamentals of ESG investing, including its ethical and environmental benefits.
+
+2. **Fund Categories & Screening**  
+   Learn about Environmental, Social, Governance, and Mixed ESG fund types.
+
+3. **Investment Calculator & Impact Estimation**  
+   Calculate your ESG investment potential (e.g., 2% of income), financial returns, and environmental impact.
+
+4. **Transaction Simulation & Portfolio Management**  
+   Simulate ESG fund investments and monitor portfolio performance without real money risk.
+
+---
+
+## 🛠️ Technology Stack
+
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MySQL  
+- **API Integrations:** Real-time ESG fund data tracking and updates
+
+---
+
+## 🚀 Innovation & Uniqueness
+
+- **Targeted for Small Investors** – Promotes ESG investing starting at just 2% of income.
+- **India-Centric Recommendations** – Focused on Indian ESG funds and local trends.
+- **Risk-Free Simulation** – Enables users to practice investing without real money.
+
+---
+
+## 🎯 Target Audience & Market Opportunity
+
+### 👥 Target Audience
+
+- Young & First-Time Investors (18–35 years)  
+- Sustainability-Oriented Individuals  
+- Salaried & Middle-Class Investors  
+- Retail Mutual Fund Participants  
+- Corporate Professionals
+
+### 📈 Market Opportunity
+
+- Indian ESG AUM has surpassed ₹15,000 Cr and is expanding rapidly.  
+- SEBI’s ESG reporting norms foster responsible investing.  
+- Over 70% of young investors prefer sustainable options.  
+- The rise of digital fintech platforms makes ESG investing more accessible.
+
+---
+
+## 💼 Business Model
+
+### 💰 Revenue Streams
+
+1. **Investment Commission** – Platform earns a small fee per completed transaction.
+2. **Freemium Model** – Advanced features like AI-based fund recommendations, ESG impact tracking, and portfolio insights are available via subscription.
+3. **Referral & Rewards** – Users earn incentives for learning and investing through the platform.
